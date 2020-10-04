@@ -9,4 +9,4 @@ six
 cryptography<3
 lxml
 pyOpenSSL
-signxml
+signxml==2.8.0
