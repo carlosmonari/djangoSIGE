@@ -6,7 +6,7 @@ python-decouple
 pytz
 reportlab
 six
-cryptography
+cryptography<3
 lxml
 pyOpenSSL
 signxml
