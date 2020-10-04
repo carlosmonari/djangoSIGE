@@ -9,4 +9,4 @@ six==1.11.*
 cryptography>=2.3
 lxml==4.2.*
 pyOpenSSL==17.5.*
-signxml==2.5.*
+signxml==2.8.*
