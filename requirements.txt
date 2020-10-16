@@ -10,3 +10,4 @@ cryptography<3
 lxml
 pyOpenSSL
 signxml==2.8.0
+django-createsuperuserwithpassword
