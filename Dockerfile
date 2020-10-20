@@ -13,8 +13,7 @@ RUN apk add --no-cache python3 python3-dev \
 # Installing OS Dependencies
     linux-headers libressl-dev \
 RUN apt-get update && apt-get upgrade -y && apt-get install -y \
-    libxml2-dev libxslt-dev \
-libsqlite3-dev
+    libxml2-dev libxslt-dev libsqlite3-dev \
     musl-dev postgresql-dev \
 
     && pip3 install -r requirements.txt \
