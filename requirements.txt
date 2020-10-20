@@ -1,5 +1,5 @@
-https://github.com/thiagopena/geraldo/archive/master.zip
-https://github.com/thiagopena/PySIGNFe/archive/master.zip
+https://github.com/carlosmonari/geraldo/archive/master.zip
+https://github.com/carlosmonari/PySIGNFe/archive/master.zip
 django
 dj-database-url
 python-decouple
